@@ -1,6 +1,6 @@
 # Design Patterns, in Typescript
 
-This repo has been bootstrapped using (typescript-library-starter)[https://github.com/alexjoverm/typescript-library-starter.git].
+This repo has been bootstrapped using [typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter.git).
 
 ## Contents
 
@@ -18,5 +18,5 @@ This repo has been bootstrapped using (typescript-library-starter)[https://githu
 
 Examples and explanations have been used studying on the following websites:
 
-1. [(Sourcemaking)[https://sourcemaking.com]]
-2. [(OODesign)[https://www.oodesign.com/]]
+1. [Sourcemaking](https://sourcemaking.com)
+2. [OODesign](https://www.oodesign.com/)

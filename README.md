@@ -9,9 +9,9 @@ This repo has been bootstrapped using [typescript-library-starter](https://githu
     - Factory
     - Abstract Factory
     - Builder
-    - Prototype
-    - Object Pool
 2. Structural Patterns
+    - Adapter
+    - Bridge [TODO]
 3. Behavioral Patterns
 
 ## Credits

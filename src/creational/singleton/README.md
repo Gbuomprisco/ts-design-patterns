@@ -1,4 +1,4 @@
-## Singleton
+# Singleton
 
 Sometimes it's important to have only one instance of a class. Examples of such use cases may be:
 
